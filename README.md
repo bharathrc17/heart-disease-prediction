@@ -1,4 +1,4 @@
-# heart-disease-prediction
+# heart-disease-prediction-using-machine-learning
 A machine learning model to predict the presence of heart disease based on clinical features like age, cholesterol, and ECG results.
 # Heart Disease Prediction 🫀
 
